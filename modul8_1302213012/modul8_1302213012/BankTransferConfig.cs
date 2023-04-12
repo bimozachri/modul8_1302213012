@@ -10,8 +10,7 @@ namespace modul8_1302213012
     public class BankTransferConfig
     {
         public BankTransfer BT;
-        private const string loc = ".";
-        private const string path = loc + "\\" + @"bank_transfer_config.json";
+        private const string path = @"bank_transfer_config.json";
         public transfer TF;
         public confirmation confirm;
 
