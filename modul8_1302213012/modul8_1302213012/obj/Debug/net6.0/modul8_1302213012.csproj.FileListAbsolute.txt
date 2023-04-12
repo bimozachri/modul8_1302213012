@@ -1,0 +1,15 @@
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\bin\Debug\net6.0\modul8_1302213012.exe
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\bin\Debug\net6.0\modul8_1302213012.deps.json
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\bin\Debug\net6.0\modul8_1302213012.runtimeconfig.json
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\bin\Debug\net6.0\modul8_1302213012.dll
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\bin\Debug\net6.0\modul8_1302213012.pdb
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.csproj.AssemblyReference.cache
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.AssemblyInfoInputs.cache
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.AssemblyInfo.cs
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.csproj.CoreCompileInputs.cache
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.dll
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\refint\modul8_1302213012.dll
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.pdb
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\modul8_1302213012.genruntimeconfig.cache
+C:\Users\bimoz\Downloads\Matkul SMT 4\Konstruksi Perangkat Lunak\modul8_1302213012\modul8_1302213012\modul8_1302213012\obj\Debug\net6.0\ref\modul8_1302213012.dll
